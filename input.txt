@@ -1,3 +1,0 @@
-name: shakshi
-age: 23
-country: India
